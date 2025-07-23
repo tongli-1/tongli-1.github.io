@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的个人主页</title>
+    <link>https://tongli-1.github.io/</link>
+    <description>Recent content on 我的个人主页</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tongli-1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://tongli-1.github.io/posts/first/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tongli-1.github.io/posts/first/</guid>
+      <description>&lt;p&gt;这是用 Ananke 主题创建的第一篇 Hugo 博文！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

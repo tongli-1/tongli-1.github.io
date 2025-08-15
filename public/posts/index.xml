@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tong Li — Academic Homepage</title>
-    <link>https://tongli-1.github.io/</link>
-    <description>Recent content on Tong Li — Academic Homepage</description>
+    <title>Posts on Tong Li — Academic Homepage</title>
+    <link>https://tongli-1.github.io/posts/</link>
+    <description>Recent content in Posts on Tong Li — Academic Homepage</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tongli-1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tongli-1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
       <link>https://tongli-1.github.io/posts/first/</link>

@@ -6,6 +6,7 @@
     <description>Recent content in Posts on Li Tong — Academic Homepage</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 20 Aug 2025 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://tongli-1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +17,11 @@
       <description>&lt;p&gt;这是我使用 Hugo + PaperMod 主题发布的第一篇文章。&lt;/p&gt;</description>
     </item>
     <item>
+=======
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tongli-1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+>>>>>>> 1ceb80e0df01580ea27d6b9eab9a7adef0754ef5
       <title>我的第一篇文章</title>
       <link>https://tongli-1.github.io/posts/first/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
